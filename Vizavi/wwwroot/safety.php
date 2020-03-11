@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui" />
+    <title>Safety of customer funds Vizavi</title>
+    <meta name="description" content="Safety of customer funds" />
+    <meta name="keywords" content="" />
+    <?php
+        include 'head_tag_in.php';
+    ?>
+</head>
+
+<body>
+    <!-- begin .wrap-overlay -->
+    <div class="wrap-overlay"></div>
+    <!-- end .wrap-overlay -->
+
+    <main>
+        
+        <?php
+            include 'header.php';
+        ?>
+        <!-- begin .headline -->
+
+        <div class="headline headline--safety">
+            <!-- begin .headline__wrap -->
+            <div class="headline__wrap">
+                <!-- begin .headline__content -->
+                <div class="headline__content">
+                    <h1 class="h2">Safety of customer funds</h1>
+
+                    <p>Profitability or reliability? <strong>You do not have to choose with Vizavi!</strong></p>
+                    <!-- begin .headline__actions -->
+
+                    <div class="headline__actions headline-actions">
+                        <!-- begin .headline-actions__buttons -->
+                        <div class="headline-actions__buttons"><a class="button button-red"
+                                href="https://my.vizavi.com/registration">Open account</a> <a
+                                class="button button-light" href="https://my.vizavi.com/registration">Demo account</a>
+                        </div>
+                        <!-- end .headline-actions__buttons -->
+                    </div>
+                    <!-- end .headline__actions -->
+                </div>
+                <!-- end .headline__content -->
+            </div>
+            <!-- end .headline__wrap -->
+            <!-- begin .headline-flag -->
+
+            <div class="headline-flag"></div>
+            <!-- end .headline-flag -->
+        </div>
+        <!-- end .headline -->
+        <!-- begin .text-safety -->
+
+        <div class="text-safety">
+            <!-- begin .text-safety__wrap -->
+            <div class="text-safety__wrap">
+                <!-- begin .text-safety__notchoose -->
+                <div class="text-safety__notchoose flex flex-center">
+                    <!-- begin .text-safety__notchoose-text -->
+                    <div class="text-safety__notchoose-text">
+                        <!-- begin .intro-box -->
+                        <div class="intro-box text-left p-decor">
+                            <h2 class="h2">Profitability or reliability? <span>You do not have to choose with Vizavi!</span></h2>
+
+                            <p>
+                                Vizavi pays special attention to the safety of customers funds. We guarantee you maximum protection of monetary assets, complete security of transactions and timely fulfillment of financial obligations.
+                            </p>
+                        </div>
+                        <!-- end .intro-box -->
+                    </div>
+                    <!-- end .text-safety__notchoose-text -->
+                    <!-- begin .text-safety__notchoose-pic -->
+
+                    <div class="text-safety__notchoose-pic">
+                        <!-- begin .text-safety__notchoose-img -->
+                        <div class="text-safety__notchoose-img"><img alt="" src="/assets/images/planet.png" /></div>
+                        <!-- end .text-safety__notchoose-img -->
+                    </div>
+                    <!-- end .text-safety__notchoose-pic -->
+                </div>
+                <!-- end .text-safety__notchoose -->
+                <!-- begin .text-safety__cards -->
+
+                <div class="text-safety__cards flag-cards">
+                    <!-- begin .flag-card -->
+                    <div class="flag-card">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="43" width="49">
+                                        <use xlink:href="#i_bank" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">Segregated accounts in major world banks</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    In order to protect customers funds from unforeseen risks, Vizavi allows their full or partial storage in a bank account independent of the broker. These accounts are protected by the banking legislation of the country of placement with a guarantee of payment within the limits established by law.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                    <!-- begin .flag-card -->
+
+                    <div class="flag-card bg-dark">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="46" width="50">
+                                        <use xlink:href="#i_shield" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">Automated negative balance protection</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    Vizavi uses modern technologies that allow us to protect the deposit and the financial condition of the client from losses caused by unskilled trade or force majeure. You will never lose more of your deposit and will not have to stay with companies or other financial agents.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                    <!-- begin .flag-card -->
+
+                    <div class="flag-card bg-red">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="48" width="33">
+                                        <use xlink:href="#i_graduate" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">Legal protection of deposit and withdrawal operations</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    Vizavi enters into an agreement with each payment intermediary, under such an agreement the company undertakes to make balance transactions at the client’s request without hindrance, our payment system also will refund upon the first request of the client.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                    <!-- begin .flag-card -->
+
+                    <div class="flag-card bg-red">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="48"
+                                        style="position: relative; left: 3px; top: 2px;" width="46">
+                                        <use xlink:href="#i_certified" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">Due Diligence partners and contractors verification</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    The legal department of Vizavi conducts a preliminary check of each partner and counterparty on the legality of activities, financial solvency and compliance with the quality of the declared services. This eliminates the risk of Vizavi interaction with unscrupulous partners, which may indirectly affect customers.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                    <!-- begin .flag-card -->
+
+                    <div class="flag-card">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="49" width="40">
+                                        <use xlink:href="#i_shield-check" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        </use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">Protection from suspicious AML and KYC operations</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    Broker status, as well as legal relations with payment counterparties, require Vizavi to adhere to high standards of Anti Money Laundering and Know Your Customer policies. The company's clients are fully protected from losses caused by actions of third parties in relation to their accounts and personal data.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                    <!-- begin .flag-card -->
+
+                    <div class="flag-card bg-dark">
+                        <!-- begin .flag-card__box -->
+                        <div class="flag-card__box">
+                            <!-- begin .flag-card__icon -->
+                            <div class="flag-card__icon">
+                                <!-- begin .flag-card__icon-box -->
+                                <div class="flag-card__icon-box"><svg height="47" width="47">
+                                        <use xlink:href="#i_planet-bitcoin" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        </use>
+                                    </svg></div>
+                                <!-- end .flag-card__icon-box -->
+                            </div>
+                            <!-- end .flag-card__icon -->
+                            <!-- begin .flag-card__headline -->
+
+                            <div class="flag-card__headline">
+                                <h3 class="h4">The ability to store a deposit in cryptocurrency</h3>
+                            </div>
+                            <!-- end .flag-card__headline -->
+                            <!-- begin .flag-card__body -->
+
+                            <div class="flag-card__body">
+                                <p>
+                                    Vizavi uses modern blockchain technology and thus guarantees a high level of safety of its customers' funds.
+                                </p>
+                            </div>
+                            <!-- end .flag-card__body -->
+                        </div>
+                        <!-- end .flag-card__box -->
+                    </div>
+                    <!-- end .flag-card -->
+                </div>
+                <!-- end .text-safety__cards -->
+            </div>
+            <!-- end .text-safety__wrap -->
+        </div>
+        <!-- end .text-safety -->
+    </main>
+    
+    <?php
+        include 'footer.php';
+    ?>
+    
+    <?php
+        include 'scripts.php';
+    ?>
+    
+    <?php
+        include 'sprite.php';
+    ?>
+</body>
+
+</html>
